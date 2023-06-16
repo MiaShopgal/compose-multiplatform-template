@@ -43,8 +43,7 @@ kotlin {
                 api("androidx.appcompat:appcompat:1.6.1")
                 api("androidx.core:core-ktx:1.9.0")
                 api("androidx.compose.ui:ui-tooling-preview:1.5.0-beta02")
-                //                api("androidx.compose.ui:ui-tooling-preview-android:1.5.0-beta02")
-//                api("androidx.compose.ui:ui-tooling-preview:1.4.3")
+                api("androidx.compose.ui:ui-tooling:1.5.0-beta02")
             }
         }
         val iosX64Main by getting
